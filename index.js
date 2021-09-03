@@ -7,10 +7,10 @@ const PQueue = require('p-queue').default
 
 const EventEmitter = require('events')
 
-const DEFAULT_SAMPLE_SIZE = 10
+const DEFAULT_SAMPLE_SIZE = 5
 const DEFAULT_PERCENT_FAR = 0.33
 const DEFAULT_LOOKUP_TIMEOUT = 1000
-const DEFAULT_MAX_PEERS = 4
+const DEFAULT_MAX_PEERS = 3
 
 module.exports =
 
