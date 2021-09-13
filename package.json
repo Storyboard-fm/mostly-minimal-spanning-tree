@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RangerMauve/mostly-minimal-spanning-tree.git"
+    "url": "git+https://github.com/storyboard-fm/mostly-minimal-spanning-tree.git"
   },
   "keywords": [
     "mmst",
